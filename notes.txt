@@ -1,0 +1,21 @@
+GITHUB LAB
+
+1. Does creating the repository in GitHub create the repo on your computer?
+
+ANSWER: No
+
+
+
+2. What does cloning do?
+
+ANSWER: cloning will allow us to add a repository(a folder)
+        inside a folder on our PC, and I can such as:
+        create a file inside it and edit this file inside
+        VS code 
+
+
+
+3. Once you've cloned the repo, how do you open it in VS Code?
+
+ANSWER: by typing "code ." which will open everything 
+        here in VS code.
