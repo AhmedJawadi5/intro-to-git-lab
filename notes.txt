@@ -19,3 +19,6 @@ ANSWER: cloning will allow us to add a repository(a folder)
 
 ANSWER: by typing "code ." which will open everything 
         here in VS code.
+
+
+--- My name: Ahmed Redha Darwish Jawadi ---
